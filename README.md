@@ -1,5 +1,5 @@
 # Boston House Price Prediction
-
+sagar..here this is my first ml project which i done by myself writing each and every line from scratch and solving self doubts if this is happening then why if this then why not other and many more situation like this..also hypertuning is great concept i will try my best to utilize that but it didnnt worked here too much..i ustilized flask ,html/css/js to make web page and dockerize my web app.....thanks if u are here ..not very fancy project i know  but my first one and i loved while exploring everything about linear regression so yes it is like that....
 This project predicts house prices in Boston using a machine learning model. The model is built using Python, and the project includes Exploratory Data Analysis (EDA), model training with Scikit-learn, a web interface using Flask, and Docker for containerization.
 
 ## Project Structure
